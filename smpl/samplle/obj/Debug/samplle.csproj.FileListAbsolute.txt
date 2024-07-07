@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Anwe\smpl\samplle\bin\Debug\samplle.exe.config
+C:\Users\Admin\Desktop\Anwe\smpl\samplle\bin\Debug\samplle.exe
+C:\Users\Admin\Desktop\Anwe\smpl\samplle\bin\Debug\samplle.pdb
+C:\Users\Admin\Desktop\Anwe\smpl\samplle\obj\Debug\samplle.Client.resources
+C:\Users\Admin\Desktop\Anwe\smpl\samplle\obj\Debug\samplle.Properties.Resources.resources
+C:\Users\Admin\Desktop\Anwe\smpl\samplle\obj\Debug\samplle.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Anwe\smpl\samplle\obj\Debug\samplle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Anwe\smpl\samplle\obj\Debug\samplle.exe
+C:\Users\Admin\Desktop\Anwe\smpl\samplle\obj\Debug\samplle.pdb
+C:\Users\Admin\Desktop\Anwe\smpl\samplle\obj\Debug\samplle.Staff.resources
+C:\Users\Admin\Desktop\Anwe\smpl\samplle\obj\Debug\samplle.Location.resources
+C:\Users\Admin\Desktop\Anwe\smpl\samplle\obj\Debug\samplle.Production.resources
+C:\Users\Admin\Desktop\Anwe\smpl\samplle\obj\Debug\samplle.Property.resources
+C:\Users\Admin\Desktop\Anwe\smpl\samplle\obj\Debug\samplle.Login.resources
+C:\Users\Admin\Desktop\Anwe\smpl\samplle\obj\Debug\samplle.csprojAssemblyReference.cache
